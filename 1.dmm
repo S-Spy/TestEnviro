@@ -1,0 +1,17 @@
+"a" = (/turf,/area)
+"b" = (/obj,/turf,/area)
+"c" = (/mob,/turf,/area)
+"d" = (/obj/planet,/turf,/area)
+
+(1,1,1) = {"
+aaaaaaaaaa
+baaabaaaaa
+baaaaaaaaa
+abaabaabaa
+abbacbbaaa
+abbbaaaaaa
+aadbaaabaa
+aabababaaa
+bbbabbbaaa
+aaaaaabaaa
+"}
